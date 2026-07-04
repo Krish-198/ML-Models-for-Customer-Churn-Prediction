@@ -128,9 +128,7 @@ The project compares multiple algorithms to identify the best performer:
 - **XGBoost** – Gradient boosting implementation
 - **Matplotlib & Seaborn** – Data visualization
 - **Jupyter Notebook** – Interactive development environment
-
-## Dataset
-
+##Data
 The project uses customer data with features including:
 
 **Demographics:**
