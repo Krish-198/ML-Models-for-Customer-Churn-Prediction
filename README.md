@@ -8,6 +8,17 @@ Predicting customer churn using machine learning to help businesses identify at-
 
 **Project:** AI Internship for Young Achievers | **Organization:** Corporate Gurukul  
 **Institution:** National University of Singapore (NUS) | **Mentor:** Prof. Sanka Rasnayaka
+## Acknowledgments
+
+Special thanks to:
+- **Prof. Sanka Rasnayaka** ([@Sanka-R](https://github.com/Sanka-R)) 
+  – Project mentor and guide at NUS | School of Computing
+- **Corporate Gurukul** – Providing this valuable internship opportunity
+- **National University of Singapore** – Institution support and resources
+- All instructors in the AI Internship for Young Achievers program
+
+This project was developed under Prof. Rasnayaka's mentorship during 
+the AI Internship for Young Achievers program.
 
 ## Overview
 
