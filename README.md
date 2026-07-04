@@ -188,7 +188,7 @@ Based on model insights:
 
 Through this internship project, I learned:
 
-✅ End-to-end machine learning workflow from data exploration to model deployment  
+✅ End to end machine learning workflow from data exploration to model deployment  
 ✅ Best practices in data preprocessing and feature engineering  
 ✅ Model selection and hyperparameter tuning strategies  
 ✅ Interpreting business metrics from ML models  
@@ -223,14 +223,3 @@ Special thanks to:
 - **National University of Singapore** – Institution support and resources
 - All instructors in the AI Internship for Young Achievers program
 
-## Contact & Connect
-
-**GitHub:** [@Krish-198](https://github.com/Krish-198)  
-**LinkedIn:** [Your LinkedIn Profile]  
-**Email:** [Your Email]
-
----
-
-**Built with passion for machine learning and data science during the NUS AI Internship for Young Achievers.**
-
-Last Updated: 2024
