@@ -1,3 +1,7 @@
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Krish-198/Customer-Churn-Prediction?style=social)](https://github.com/Krish-198/Customer-Churn-Prediction)
+
 # Customer Churn Prediction
 
 Predicting customer churn using machine learning to help businesses identify at-risk customers and implement retention strategies.
